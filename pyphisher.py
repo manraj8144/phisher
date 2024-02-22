@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 # ToolName   : PyPhisher
-# Author     : KasRoudra
+# Author     : Manraj
 # Version    : 2.1
 # License    : MIT
 # Copyright  : KasRoudra (2021-2023)
@@ -18,7 +18,7 @@
 """
 MIT License
 
-Copyright (c) 2021-2023 KasRoudra
+Copyright (c) 2021-2023 Manraj
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -122,14 +122,14 @@ info2  =   f"{green}[{white}•{green}] {purple}"
 
 # Modifying this could be potentially dangerous
 logo = f"""
-{red}  _____       _____  _     _     _               
-{cyan} |  __ \     |  __ \| |   (_)   | |              
-{yellow} | |__) |   _| |__) | |__  _ ___| |__   ___ _ __ 
-{blue} |  ___/ | | |  ___/| '_ \| / __| '_ \ / _ \ '__|
-{red} | |   | |_| | |    | | | | \__ \ | | |  __/ |   
-{yellow} |_|    \__, |_|    |_| |_|_|___/_| |_|\___|_|   
-{green}         __/ |{" "*19}       {cyan}[v{version[:3]}]
-{cyan}        |___/  {" "*11}      {red}[By \x4b\x61\x73\x52\x6f\x75\x64\x72\x61]
+{red}   |\      /|     /\      |\     |  _______          /\         _______________
+{cyan}  | \    / |    /  \     | \    |  |      \        /  \               |
+{yellow}|  \  /  |   /    \    |  \   |  |      /       /    \              |
+{blue}  |   \/   |  /______\   |   \  |  |_____/       /______\             |
+{red}   |        | /        \  |    \ |  |     \      /        \      \     |
+{yellow}|        |/          \ |     \|  |      \    /          \      \____|
+{green}         {" "*19}       {cyan}[v{version[:3]}]
+{cyan}          {" "*11}      {red}[By Manraj]
 """
 
 
